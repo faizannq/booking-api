@@ -1,0 +1,8 @@
+.env
+bin/
+vendor/
+*.log
+*.exe
+*.out
+.DS_Store
+docker-data/
